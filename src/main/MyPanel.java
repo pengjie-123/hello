@@ -13,6 +13,6 @@ public class MyPanel {
 		frame.setVisible(true);
 	}
 public static void main(String[] args) {
-	new MyPanel().setPanel();
+	new MyPanel().setPanel();//yyyyy
 }
 }
